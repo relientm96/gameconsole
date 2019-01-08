@@ -1,6 +1,5 @@
 /*------INFO--------*/
-/*Name: Matthew Yong
-Student Number: 765353*/
+/*Name: Matthew Yong*/
 
 /*--------Function Prototypes----------*/
 
