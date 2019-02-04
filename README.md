@@ -1,6 +1,7 @@
 # Gane Console Project
 
 A game console project on a self made embedded system.
+Designed in Altium Designer
 Programmed in AVR Studio and C
 
 This was done onto an 8 bit AVR microcontroller ATMEGA16 chip.
