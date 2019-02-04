@@ -13,7 +13,9 @@ referred from documentation: https://www.gme.cz/data/attachments/dsh.958-112.1.p
 # Brightness PWM:
 ![](images/pwmBrightness.gif)
 
-# Flappy Bird:
+# Games:
+
+## Flappy Bird
 ![](images/flappybirdexp.gif)
 
 # Front View:
