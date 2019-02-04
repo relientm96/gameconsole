@@ -7,16 +7,20 @@ Programmed in AVR Studio and C
 This was done onto an 8 bit AVR microcontroller ATMEGA16 chip.
 referred from documentation: https://www.gme.cz/data/attachments/dsh.958-112.1.pdf
 
-Front View:
+#Front View:
 ![](images/front.jpg)
 
-Back View:
+#Back View:
 ![](images/back.jpg)
 
-Menu Scroll Through
+#Menu Scroll Through
 ![](images/menuScrollThrough.gif)
 
-Brightness PWM:
+#Brightness PWM:
 ![](images/pwmBrightness.gif)
+
+#Flappy Bird:
+![](images/flappybirdexp.gif)
+
 
 
