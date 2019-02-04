@@ -10,9 +10,9 @@ Front View:
 ![](images/front.jpg)
 
 Back View:
-![](images/front.jpg)
+![](images/back.jpg)
 
-Scroll Through:
+Menu Scroll Through
 ![](images/menuScrollThrough.gif)
 
 Brightness PWM:
