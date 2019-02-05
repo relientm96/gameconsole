@@ -28,8 +28,8 @@ Simple Pong Game with two programmed AI.
 1. Three Options are given, one will be right.
 2. If right answer selected, you move on.
 3. If wrong answer selected, you go into Monty Hall Mode
-- Two Options Left, one wrong answer is removed
-- Timer to choose right answer.
+-Two Options Left, one wrong answer is removed.
+-Timer to choose right answer.
 ![](images/guessGame.gif)
 
 ## Etch A Sketch
