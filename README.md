@@ -43,8 +43,8 @@ A game console project on a self made embedded system.
 ![](images/guessGame.gif)
 
 ## Etch A Sketch
-- A Digital implementation of the traditional etch a sketch game
-- Clear action on actionOne button
+- A Digital implementation of the traditional etch a sketch game.
+- Clear action on actionOne button.
 ![](images/etchASketchDemo.gif)
 
 # Front View:
