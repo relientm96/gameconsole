@@ -8,21 +8,21 @@ This was done on an 8 bit AVR microcontroller ATMEGA16 chip.
 referred from documentation: https://www.gme.cz/data/attachments/dsh.958-112.1.pdf
 
 # Menu Scroll Through
-Buttons navigating through game console 
+Buttons navigating through game console. Timer implemented on welcome screen.
 ![](images/menuScrollThrough.gif)
 
 # Brightness PWM:
-# Controlled using fast PWM Mode on ATMEGA16 chip
+Controlled using fast PWM Mode on ATMEGA16 chip
 ![](images/pwmBrightness.gif)
 
 # Games:
 
 ## Flappy Bird
-# Simple Version with obstacles only from the bottom
+Simple Version with obstacles only from the bottom
 ![](images/flappybirdexp.gif)
 
 ## Pong
-# Simple Pong Game with two programmed AI
+Simple Pong Game with two programmed AI.
 ![](image/pongGame.gif)
 
 ## Guess
