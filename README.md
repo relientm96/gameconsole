@@ -44,7 +44,6 @@ A game console project on a self made embedded system.
 
 ## Etch A Sketch
 1. A Digital implementation of the traditional etch a sketch game.
-2. Clear action on actionOne button.
 ![](images/etchASketchDemo.gif)
 
 # Front View:
