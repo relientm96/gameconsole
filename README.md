@@ -23,14 +23,13 @@ Simple Version with obstacles only from the bottom
 
 ## Pong
 Simple Pong Game with two programmed AI.
-![](image/pongGame.gif)
 
 ## Guess
 1. Three Options are given, one will be right.
 2. If right answer selected, you move on.
 3. If wrong answer selected, you go into Monty Hall Mode
-  a) Two Options Left, one wrong answer is removed
-  b) Timer to choose right answer
+- Two Options Left, one wrong answer is removed
+- Timer to choose right answer.
 ![](images/guessGame.gif)
 
 ## Etch A Sketch
