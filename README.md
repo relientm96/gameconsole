@@ -36,7 +36,7 @@ Project File Structure
 |	|__spi.c                  //Main functions for SPI communication
 |
 |-pcb
-    |__Game_Consol.PcbDoc //Altium Design Document
+    |__Game_Consol.PcbDoc         //Altium Design Document
 
 ```
 
