@@ -16,7 +16,7 @@ A game console project on a self made embedded system.
 https://www.gme.cz/data/attachments/dsh.958-112.1.pdf
 
 Project File Structure
-```bash
+```
 |-src
 |   |___
 |	|__backlight.c   	  //Handles backlight control using PWM
@@ -73,9 +73,9 @@ Project File Structure
 ![](images/etchASketchDemo.gif)
 
 # PCB 3D View:
-![](images/pcbLayout3d.jpg)
+![](images/pcbLayout3d.JPG)
 
 # PCB 2D View:
-![](images/pcbLayout.jpg)
+![](images/pcbLayout.JPG)
 
 
