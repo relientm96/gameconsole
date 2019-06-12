@@ -12,7 +12,33 @@ A game console project on a self made embedded system.
 	- Power Circuit with boost converter
 	- JTAG interface
 
-8 bit AVR microcontroller ATMEGA16 settings reffered from documentation: https://www.gme.cz/data/attachments/dsh.958-112.1.pdf
+8 bit AVR microcontroller ATMEGA16 settings reffered from documentation: 
+https://www.gme.cz/data/attachments/dsh.958-112.1.pdf
+
+Project File Structure
+```bash
+|-src
+|   |___
+|	|__backlight.c   	  //Handles backlight control using PWM
+|	|__battery.c     	  //Handles battery level checking
+|	|__character.h   	  //Protoypes of Character Library
+|	|__character.c   	  //Self Created Character Library
+|	|__etchasketch.c 	  //etchASketch game implementation
+|	|__flappybird.c		  //Flappy Bird game implementation
+|	|__function_prototypes.h  //Prototypes of misc functions
+|	|__game_console.h	  //Main Game Console function Prototypes
+|	|__game_console.c         //Main Program
+|	|__game_interrupts.c      //Handles interrupts in ATMEGA16
+|	|__guess.c                //Monty Hall game implementation
+|	|__init_misc_components.c //Initializing Components on bootup
+|	|__LCD.c                  //Handles LCD communication via SPI
+|	|__pong.c                 //Implementation of Pong Game
+|	|__spi.c                  //Main functions for SPI communication
+|
+|-pcb
+    |__Game_Consol.PcbDoc //Altium Design Document
+
+```
 
 # Menu Scroll Through
 - Buttons navigating through game console
@@ -46,10 +72,10 @@ A game console project on a self made embedded system.
 1. A Digital implementation of the traditional etch a sketch game.
 ![](images/etchASketchDemo.gif)
 
-# Front View:
-![](images/front.jpg)
+# PCB 3D View:
+![](images/pcbLayout3d.jpg)
 
-# Back View:
-![](images/back.jpg)
+# PCB 2D View:
+![](images/pcbLayout.jpg)
 
 
